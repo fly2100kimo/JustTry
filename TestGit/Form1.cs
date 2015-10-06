@@ -20,6 +20,10 @@ namespace TestGit
         private void Form1_Load(object sender, EventArgs e)
         {
             string str = "this is Test1_Gavin2";
+            string str = "this is Test1_Gavin2";
+            string str = "this is Test1_Gavin2";
+            string str = "this is Test1_Gavin2";
+            string str = "this is Test1_Gavin2";
         }
     }
 }
