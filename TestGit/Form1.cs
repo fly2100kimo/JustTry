@@ -21,6 +21,7 @@ namespace TestGit
         {
             string str = "this is Test1";
             string str = "this is Test1_Gavin1";
+            string str = "this is Test1_Gavin2";
         }
     }
 }
