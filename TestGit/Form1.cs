@@ -29,7 +29,7 @@ namespace TestGit
              str = "A gogo";
              str = "A gogo";
              str = "A gogo";
-            MessageBox.Show("");
+            MessageBox.Show(str);
         }
     }
 }
